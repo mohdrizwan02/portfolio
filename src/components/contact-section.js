@@ -121,8 +121,8 @@ export default function ContactSection() {
                         animate={isInView ? { opacity: 1, y: 0 } : { opacity: 0, y: 20 }}
                         transition={{ duration: 0.6, delay: 0.6 }}
                     >
-                        I'm always open to discussing new opportunities, interesting projects, or just having a chat about
-                        technology and development. Let's create something amazing together!
+                        I&apos;m always open to discussing new opportunities, interesting projects, or just having a chat about
+                        technology and development. Let&apos;s create something amazing together!
                     </motion.p>
                 </motion.div>
 
@@ -141,7 +141,7 @@ export default function ContactSection() {
                                 transition={{ delay: 0.5 }}
                             >
                                 <MessageCircle className="h-7 w-7 mr-3 text-blue-500" />
-                                Let's Connect
+                                Let&apos;s Connect
                             </motion.h3>
 
                             <div className="space-y-6 mb-10">

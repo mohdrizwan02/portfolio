@@ -108,7 +108,7 @@ export default function AboutSection() {
                 animate={isInView ? { opacity: 1, y: 0 } : { opacity: 0, y: 20 }}
                 transition={{ duration: 0.6, delay: 0.7 }}
               >
-                I'm a passionate Web Developer and Software Engineer with a fresh perspective and an eagerness to create
+                I&apos;m a passionate Web Developer and Software Engineer with a fresh perspective and an eagerness to create
                 meaningful digital experiences. My journey in technology began with curiosity and has evolved into a
                 deep commitment to crafting clean, efficient, and user-focused solutions.
               </motion.p>

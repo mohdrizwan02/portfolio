@@ -78,7 +78,7 @@ const testimonials=[]
             animate={isInView ? { opacity: 1, y: 0 } : { opacity: 0, y: 20 }}
             transition={{ duration: 0.6, delay: 0.6 }}
           >
-            Feedback from colleagues, mentors, and clients I've had the pleasure to work with
+            Feedback from colleagues, mentors, and clients I&apos;ve had the pleasure to work with
           </motion.p>
         </motion.div>
 
@@ -136,7 +136,7 @@ const testimonials=[]
 
                   {/* Content */}
                   <p className="text-gray-600 dark:text-gray-300 mb-8 leading-relaxed italic flex-grow">
-                    "{testimonial.content}"
+                    &quot;{testimonial.content}&quot;
                   </p>
 
                   {/* Author */}
