@@ -18,7 +18,7 @@ export default function SkillsSection() {
         { name: "JavaScript", level: 95 },
         { name: "Tailwind CSS", level: 90 },
         { name: "HTML/CSS", level: 95 },
-        { name: "Vue.js", level: 75 },
+        
       ],
     },
     {
@@ -27,8 +27,7 @@ export default function SkillsSection() {
       skills: [
         { name: "Node.js", level: 80 },
         { name: "Express.js", level: 85 },
-        { name: "Python", level: 70 },
-        { name: "PostgreSQL", level: 75 },
+       
         { name: "MongoDB", level: 70 },
         { name: "REST APIs", level: 85 },
       ],
@@ -38,23 +37,20 @@ export default function SkillsSection() {
       icon: "🛠️",
       skills: [
         { name: "Git", level: 90 },
-        { name: "Docker", level: 65 },
-        { name: "AWS", level: 60 },
-        { name: "Figma", level: 80 },
+        
         { name: "VS Code", level: 95 },
-        { name: "Linux", level: 70 },
+       
       ],
     },
     {
       title: "Learning",
       icon: "📚",
       skills: [
-        { name: "GraphQL", level: 45 },
-        { name: "React Native", level: 40 },
-        { name: "Kubernetes", level: 35 },
+       
+      
         { name: "Machine Learning", level: 30 },
         { name: "DevOps", level: 50 },
-        { name: "Microservices", level: 40 },
+        
       ],
     },
   ]
