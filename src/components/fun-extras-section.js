@@ -97,7 +97,7 @@ export default function FunExtrasSection() {
                         animate={isInView ? { opacity: 1, scale: 1 } : { opacity: 0, scale: 0.8 }}
                         transition={{ duration: 0.8, delay: 0.2 }}
                     >
-                        Fun Extras
+                        Just for Fun
                     </motion.h2>
                     <motion.div
                         className="w-32 h-1 bg-gradient-to-r from-blue-500 to-purple-500 mx-auto rounded-full mb-8"
@@ -111,7 +111,7 @@ export default function FunExtrasSection() {
                         animate={isInView ? { opacity: 1, y: 0 } : { opacity: 0, y: 20 }}
                         transition={{ duration: 0.6, delay: 0.6 }}
                     >
-                        Some fun facts and additional features to make this portfolio more engaging
+                        Tap into some less serious, more fun parts of my portfolio
                     </motion.p>
                 </motion.div>
 
